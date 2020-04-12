@@ -10,8 +10,6 @@ You can download the dataset used from [here](http://www.cs.cornell.edu/people/p
 
 ## 🏃‍♂️ Getting Started
 
-#### The 'src' directory contains the following files
-
 * datapreprocess.py - contains all the functions for the processing of the dataset.
 * models.py - contains the deep CNN model.
 * train.py - contains the code for training the dataset on a deep CNN model.
