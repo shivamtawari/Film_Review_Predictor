@@ -26,7 +26,7 @@ To install all the dependencies, run:
 ## 🔧 How to Install
 
 👯 Clone the Repository:
-```https://github.com/Harikrishnan6336/movie_review_predictor.git```
+```https://github.com/shivamtawari/Film_Review_Predictor.git```
 
 Then move to the working directory.
 
